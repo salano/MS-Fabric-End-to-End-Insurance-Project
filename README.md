@@ -494,6 +494,8 @@ Why did it happen?
 
 ![ALT](policies_by_channel.png)
 
+![ALT](broker_sales.png)
+
 - Life policies accounted for half of all December sales, with 4 of the 8 policies (50%) — suggesting strong seasonal demand or a targeted sales push in that period
 - The broker channel drove 4 of the 8 sales (50%), confirming brokers as a key contributor to the December peak
 - Breaking down broker activity, brokers primarily sold Life policies — 3 of their 4 sales (75%) were Life, with 1 Auto policy making up the remainder
