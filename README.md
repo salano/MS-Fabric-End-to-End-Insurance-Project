@@ -14,7 +14,7 @@ Note: This project assume you have an understanding of Microsoft Fabric and DBT 
   - [Data Cleaning](#data-cleaning)
   - [DBT Data validation and Transformation](#dbt-data-validation-and-transformation)
 - [Putting It Together](#putting-it-together)
-- [Reporing and Analyses](#reporting-and-analyses)
+- [Reporting and Analyses](#reporting-and-analyses)
 - [Continuous Integration Continuous Delivery (CICD)](#continuous-integration-continuous-delivery)
 
 ## Fabric Setup
@@ -464,7 +464,7 @@ Create a master pipeline and connect the Fabric Items as shown below
 
 ![ALT](complete_pipeline.png)
 
-## Reporing and Analyses
+## Reporting and Analyses
 
 Create a semantic model for our Warehouse tables.
 
