@@ -335,7 +335,7 @@ else:
 
 ### DBT Data validation and Transformation
 
-We created a DBT project to validate and transform the data for the silver and gold layers in medallion architecture of the Microsoft Fabric project.
+We created a DBT project to validate and transform the data for the silver and gold layers in medallion architecture of the Microsoft Fabric project. It uses the Slowly Changing Dimensio (SCD) type data modelling technique to model the dimension tables in this layer.
 
 We will use Microsoft Azure Service Principal to connect to our Warehouse in Microsoft Fabric.
 
