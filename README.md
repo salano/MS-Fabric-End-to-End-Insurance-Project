@@ -348,6 +348,7 @@ In the DBT project we do the following:
 - Create a Incremental claims and master data models
 - Create views for the polices and customers data in the gold layer
 - Validation:
+  - Schema validation enforced with DBT contracts
   - Apply unique constrainst to key columns
   - Apply not null constrainst to key columns
   - Apply accepted values constrainst selected fields - status, gender etc
